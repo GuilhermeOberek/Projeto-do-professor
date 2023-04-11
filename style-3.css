@@ -1,0 +1,18 @@
+body {background-color: rgb(9, 7, 88);
+}
+
+
+.cabecalho {
+    background-color: #05296F;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 14px 0;
+
+}
+   #cabecalho-imagem{
+    width: 10%;
+}
+#imagem-escola {width: 10%;
+}
